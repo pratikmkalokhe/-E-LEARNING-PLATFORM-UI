@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS
 
-*MENTOR*: NEELA SANTOSH
+*MENTOR*:  Neela Santhosh Kumar
 
 ##This project focuses on designing the front-end interface of an E-Learning platform using modern web technologies like HTML, CSS, and JavaScript, or a framework like React.js. The platform offers a multi page, interactive experience that allows users to browse courses, track learning progress, and watch embedded video lessons all within a clean, intuitive UI.
 Key features include:
